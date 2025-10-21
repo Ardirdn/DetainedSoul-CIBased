@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,10 +11,6 @@
 		},
 		{
 			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
-			"Name": "PhysXVehicles",
 			"Enabled": true
 		},
 		{
